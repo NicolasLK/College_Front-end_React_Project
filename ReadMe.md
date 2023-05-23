@@ -16,4 +16,4 @@
 
 ## :art: Project:
 
-The project <b>Shopping list</b> simulates a shopping list or a To-do list watchever you want to call.
+The project <b>Shopping list</b> simulates a shopping list or a To-do list whatever you want to call.
